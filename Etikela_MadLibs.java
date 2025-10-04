@@ -2,42 +2,42 @@ import java.util.Scanner;
 
 public class MadLibsNoControl {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner dg = new Scanner(System.in);
         System.out.println("Press Enter after your template (Make sure to format the word cues like this Ex.[NOUN], [VERB], [COLOR] ect.\n");
-        String template = input.nextLine();
+        String template = dg.nextLine();
 // all this stufh as the code to ask user forr differnt types of words that acount forr dif scanrios and stories.
         System.out.print("Enter a NAME: ");
-        String name = input.nextLine();
+        String name = dg.nextLine();
 
         System.out.print("Enter a PLACE: ");
-        String place = input.nextLine();
+        String place = dg.nextLine();
 
         System.out.print("Enter a VERB (it should be base form, ex., run): ");
-        String verb = input.nextLine();
+        String verb = dg.nextLine();
 
         System.out.print("Enter an ADJECTIVE: ");
-        String adjective = input.nextLine();
+        String adjective = dg.nextLine();
 
         System.out.print("Enter a NOUN: ");
-        String noun = input.nextLine();
+        String noun = dg.nextLine();
 
         System.out.print("Enter an ADVERB (ex. quickly): ");
-        String adverb = input.nextLine();
+        String adverb = dg.nextLine();
 
         System.out.print("Enter a FEELING (ex. excited): ");
-        String feeling = input.nextLine();
+        String feeling = dg.nextLine();
 
         System.out.print("Enter a COLOR: ");
-        String color = input.nextLine();
+        String color = dg.nextLine();
 
         System.out.print("Enter an ANIMAL: ");
-        String animal = input.nextLine();
+        String animal = dg.nextLine();
 
         System.out.print("Enter a NUMBER: ");
-        String number = input.nextLine();
+        String number = dg.nextLine();
 
         System.out.print("Enter a PROPER_NOUN (ex.Alex): ");
-        String properNoun = input.nextLine();
+        String properNoun = dg.nextLine();
 
         // this part of the code finds the eepsericc cues, then replaces them with the variables
         String finalStory = template;
