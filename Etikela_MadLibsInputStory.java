@@ -18,7 +18,7 @@ public class MadLibsInputStory {
         String verb = dg.nextLine();
 
         System.out.print("Enter an ADJECTIVE: ");
-        String adjective = dg.nextLine();
+        String adjective= dg.nextLine();
 
         System.out.print("Enter a NOUN: ");
         String noun = dg.nextLine();
@@ -27,7 +27,7 @@ public class MadLibsInputStory {
         String adverb = dg.nextLine();
 
         System.out.print("Enter a FEELING (e.g., excited): ");
-        String feeling = dg.nextLine();
+        String feeling =  dg.nextLine();
 
         System.out.print("Enter a COLOR: ");
         String color = dg.nextLine();
@@ -54,9 +54,9 @@ public class MadLibsInputStory {
         finalStory = finalStory.replace("[NUMBER]", number);
         finalStory = finalStory.replace("[PROPER_NOUN]", properNoun);
 
-        System.out.println("\n=== YOUR MAD LIB ===");
+        System.out.println("the mad lib");
         System.out.println(finalStory);
-
         dg.close();
     }
 }
+
