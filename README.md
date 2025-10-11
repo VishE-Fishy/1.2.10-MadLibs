@@ -1,0 +1,12 @@
+
+This image shows the verson of the code where the indexOf and substring methods used for adverb are un commented. I replaced adverb with one of the uces to demonstrate these feature
+<img width="1479" height="1024" alt="image" src="https://github.com/user-attachments/assets/bf76eb13-628c-409e-b59e-2101c45d03d2" />
+
+This is the story one of the inputs
+<img width="1590" height="1012" alt="image" src="https://github.com/user-attachments/assets/8a79576c-9965-4837-877a-43fbff78d4aa" />
+
+This is input story 2
+<img width="1440" height="994" alt="image" src="https://github.com/user-attachments/assets/51b33bd9-952f-4dcb-9711-cd5aaf4f4cdc" />
+
+This is my own orginal story with no story input
+<img width="1240" height="678" alt="image" src="https://github.com/user-attachments/assets/fbcedcfd-8bb3-4397-a846-7a6737ca452c" />
