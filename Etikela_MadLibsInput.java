@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Etikela_MadLibsInputStory {
+public class Etikela_MadLibsInput {
     public static void main(String[] args) {
         Scanner dg = new Scanner(System.in);
         System.out.println("Press Enter after your template (The cues for words be in this formatt: [NOUN], [ADJECTIVE], ...):\n"); // This is the prompt to ask user for story with specific format
@@ -66,4 +66,5 @@ public class Etikela_MadLibsInputStory {
         dg.close();
     }
 }
+
 
