@@ -1,3 +1,5 @@
+The madlibs input story is used for the used two test cases as it can input storyu template. The madlibs orginal file has and orginal n built story - 3rd test case
+
 # Approach
 
 I followed milestones and concepts from the **PLTW CSA** book.
